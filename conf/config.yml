@@ -1,1 +1,15 @@
 
+/src/:
+    checklist: ADCU-CIP/cip_checklists/blob/master/common/language/cpp/CPP_CHECKLIST.md
+    version: v0.1dev1
+    block_pr: true
+
+requirements.xlsx:
+    checklist: ADCU-CIP/cip_checklists/blob/master/common/code-review/DOCUMENTATION_CHECKLIST.md
+    version: v0.1dev1
+    block_pr: true
+
+'*.py':
+    checklist: ADCU-CIP/cip_checklists/blob/master/common/code-review/DOCUMENTATION_CHECKLIST.md
+    version: v0.1dev1
+    block_pr: true

@@ -1,0 +1,5 @@
+'*.*':
+    checklist: sirishkumargists/test/check_list.md
+    version: v0.1
+    block_pr: true
+    name: "Code Quality"

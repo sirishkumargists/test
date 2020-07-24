@@ -2,3 +2,7 @@
     checklist: sirishkumar-x/HelloWorld/CHECKLIST.md
     version: v0.1
     block_pr: true
+'*.py':
+    checklist: sirishkumar-x/HelloWorld/CHECKLIST2.md
+    version: v0.2
+    block_pr: true

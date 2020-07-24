@@ -1,5 +1,4 @@
 '*.*':
-    checklist: sirishkumargists/test/check_list.md
+    checklist: sirishkumar-x/HelloWorld/CHECKLIST.md
     version: v0.1
     block_pr: true
-    name: "Code Quality"

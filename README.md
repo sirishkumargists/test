@@ -1,3 +1,3 @@
 ## Update issue comment 1
 
-Added mypy
+Test pull_request synchronize event

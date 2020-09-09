@@ -6,3 +6,7 @@
     checklist: sirishkumar-x/HelloWorld/CHECKLIST2.md
     version: v0.3
     block_pr: true
+'*.cpp':
+    checklist: sirishkumar-x/HelloWorld/CHECKLIST_CPP.md
+    version: v0.4
+    block_pr: true

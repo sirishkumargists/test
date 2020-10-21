@@ -1,1 +1,1 @@
-# Test duplicate checklists after enabling duplicates
+# Test duplicate checklists after enabling duplicates with title

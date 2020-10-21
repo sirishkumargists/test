@@ -14,6 +14,10 @@
     checklist: sirishkumar-x/HelloWorld/CHECKLIST_FILE_ANYWHERE_REPO.md
     version: v0.5
     block_pr: true
+'/comp/hcp2/':
+    checklist: sirishkumar-x/HelloWorld/CHECKLIST_FILE_ANYWHERE_REPO.md
+    version: v0.5
+    block_pr: true    
 '/build/logs/':
     checklist: sirishkumar-x/HelloWorld/CHECKLIST_RELATIVE_ROOT_NESTED.md
     version: v0.5

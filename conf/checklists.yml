@@ -22,3 +22,6 @@
     checklist: sirishkumar-x/HelloWorld/CHECKLIST_RELATIVE_ROOT_NESTED.md
     version: v0.5
     block_pr: true
+check_list_config:
+    allow_duplicate_checklists: true
+    

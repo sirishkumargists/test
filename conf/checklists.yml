@@ -26,5 +26,5 @@
     block_pr: true
 check_list_config:
     allow_duplicate_checklists: true
-    add_cl_name_as_title: true
+    add_checklist_name_as_title: true
     
